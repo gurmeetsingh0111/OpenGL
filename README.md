@@ -9,4 +9,4 @@ Projects made using OpenGL
 <br>Rotation</br>
 <br>Mirror Reflection</br>
 <br>Shearing</br>
-Programming language used , <B>C</B>
+<br><I>Programming language used , <B>C</B></I></br>
